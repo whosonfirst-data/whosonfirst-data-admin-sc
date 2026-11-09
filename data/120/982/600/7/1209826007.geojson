@@ -87,7 +87,7 @@
         "gn:id":10629843
     },
     "wof:country":"SC",
-    "wof:geomhash":"4b3abf7b5edd29529c98c9faeea6ca3d",
+    "wof:geomhash":"74dff8a4cfbc622fb471510ead1e3738",
     "wof:hierarchy":[
         {
             "continent_id":102193527,
@@ -112,5 +112,5 @@
     55.25261999999999,
     -4.48599
 ],
-  "geometry": {"coordinates":[55.25261999999999,-4.48599],"type":"Point"}
+  "geometry": {"coordinates":[55.25262,-4.48599],"type":"Point"}
 }

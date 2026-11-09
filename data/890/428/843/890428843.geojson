@@ -69,7 +69,7 @@
     },
     "wof:country":"SC",
     "wof:created":1469051775,
-    "wof:geomhash":"155502fe15ccdb0e4600461919df26ea",
+    "wof:geomhash":"a7c20c4c123949281a1304b50f3c9cc1",
     "wof:hierarchy":[
         {
             "country_id":85632661,
@@ -94,5 +94,5 @@
     52.0,
     -7.5
 ],
-  "geometry": {"coordinates":[52.0,-7.5],"type":"Point"}
+  "geometry": {"coordinates":[52,-7.5],"type":"Point"}
 }
