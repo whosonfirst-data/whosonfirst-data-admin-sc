@@ -1,0 +1,72 @@
+{
+  "id": 9895056545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.4462,-4.59093,55.4462,-4.59093",
+    "geom:latitude":-4.59093,
+    "geom:longitude":55.4462,
+    "iso:country":"SC",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11694884: name \"La Gouge\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11694884"
+        },
+        {
+            "citation":"GeoNames populated place 11694884: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11694884"
+        },
+        {
+            "citation":"GeoNames populated place 11694884: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11694884"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85678247 (Anse Etoile), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632661,
+        85678247,
+        102193527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11694884
+    },
+    "wof:country":"SC",
+    "wof:geomhash":"edca6ac9601d2230b3686318e3ed0f54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102193527,
+            "country_id":85632661,
+            "locality_id":9895056545,
+            "region_id":85678247
+        }
+    ],
+    "wof:id":9895056545,
+    "wof:lastmodified":1795735201,
+    "wof:name":"La Gouge",
+    "wof:parent_id":85678247,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sc",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.4462,
+    -4.59093,
+    55.4462,
+    -4.59093
+],
+  "geometry": {"coordinates":[55.4462,-4.59093],"type":"Point"}
+}

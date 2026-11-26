@@ -1,0 +1,73 @@
+{
+  "id": 9895056551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.46879,-4.6401,55.46879,-4.6401",
+    "geom:latitude":-4.6401,
+    "geom:longitude":55.46879,
+    "gn:population":3828,
+    "iso:country":"SC",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11694896: name \"Roche Ca\u00efman\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11694896"
+        },
+        {
+            "citation":"GeoNames populated place 11694896: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11694896"
+        },
+        {
+            "citation":"GeoNames populated place 11694896: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11694896"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85678315 (Plaisance), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632661,
+        85678315,
+        102193527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11694896
+    },
+    "wof:country":"SC",
+    "wof:geomhash":"e5ff8a11bd50198568c46f0817e47ed9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102193527,
+            "country_id":85632661,
+            "locality_id":9895056551,
+            "region_id":85678315
+        }
+    ],
+    "wof:id":9895056551,
+    "wof:lastmodified":1795735201,
+    "wof:name":"Roche Ca\u00efman",
+    "wof:parent_id":85678315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sc",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.46879,
+    -4.6401,
+    55.46879,
+    -4.6401
+],
+  "geometry": {"coordinates":[55.46879,-4.6401],"type":"Point"}
+}

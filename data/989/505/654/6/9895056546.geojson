@@ -1,0 +1,73 @@
+{
+  "id": 9895056546,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.45225,-4.59093,55.45225,-4.59093",
+    "geom:latitude":-4.59093,
+    "geom:longitude":55.45225,
+    "gn:population":15,
+    "iso:country":"SC",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11694885: name \"Maldive Village\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11694885"
+        },
+        {
+            "citation":"GeoNames populated place 11694885: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11694885"
+        },
+        {
+            "citation":"GeoNames populated place 11694885: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11694885"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85678247 (Anse Etoile), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632661,
+        85678247,
+        102193527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11694885
+    },
+    "wof:country":"SC",
+    "wof:geomhash":"602379b88113707f80b69974aee583dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102193527,
+            "country_id":85632661,
+            "locality_id":9895056546,
+            "region_id":85678247
+        }
+    ],
+    "wof:id":9895056546,
+    "wof:lastmodified":1795735201,
+    "wof:name":"Maldive Village",
+    "wof:parent_id":85678247,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sc",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.45225,
+    -4.59093,
+    55.45225,
+    -4.59093
+],
+  "geometry": {"coordinates":[55.45225,-4.59093],"type":"Point"}
+}
