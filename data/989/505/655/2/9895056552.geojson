@@ -1,0 +1,73 @@
+{
+  "id": 9895056552,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.45475,-4.61365,55.45475,-4.61365",
+    "geom:latitude":-4.61365,
+    "geom:longitude":55.45475,
+    "gn:population":4236,
+    "iso:country":"SC",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13527028: name \"English River\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13527028"
+        },
+        {
+            "citation":"GeoNames populated place 13527028: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13527028"
+        },
+        {
+            "citation":"GeoNames populated place 13527028: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13527028"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85678305 (English River), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632661,
+        85678305,
+        102193527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13527028
+    },
+    "wof:country":"SC",
+    "wof:geomhash":"06ead34c06bb34edea30867c4a6924a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102193527,
+            "country_id":85632661,
+            "locality_id":9895056552,
+            "region_id":85678305
+        }
+    ],
+    "wof:id":9895056552,
+    "wof:lastmodified":1795735201,
+    "wof:name":"English River",
+    "wof:parent_id":85678305,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sc",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.45475,
+    -4.61365,
+    55.45475,
+    -4.61365
+],
+  "geometry": {"coordinates":[55.45475,-4.61365],"type":"Point"}
+}

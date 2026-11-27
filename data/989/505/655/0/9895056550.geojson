@@ -1,0 +1,72 @@
+{
+  "id": 9895056550,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.46431,-4.65877,55.46431,-4.65877",
+    "geom:latitude":-4.65877,
+    "geom:longitude":55.46431,
+    "iso:country":"SC",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11694894: name \"Fairview\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11694894"
+        },
+        {
+            "citation":"GeoNames populated place 11694894: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11694894"
+        },
+        {
+            "citation":"GeoNames populated place 11694894: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11694894"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85678315 (Plaisance), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632661,
+        85678315,
+        102193527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11694894
+    },
+    "wof:country":"SC",
+    "wof:geomhash":"02b5a012afa358415cad39b87e4529ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102193527,
+            "country_id":85632661,
+            "locality_id":9895056550,
+            "region_id":85678315
+        }
+    ],
+    "wof:id":9895056550,
+    "wof:lastmodified":1795735201,
+    "wof:name":"Fairview",
+    "wof:parent_id":85678315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sc",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.46431,
+    -4.65877,
+    55.46431,
+    -4.65877
+],
+  "geometry": {"coordinates":[55.46431,-4.65877],"type":"Point"}
+}

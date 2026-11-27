@@ -1,0 +1,73 @@
+{
+  "id": 9895092533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.38332,-5.86354,55.38332,-5.86354",
+    "geom:latitude":-5.86354,
+    "geom:longitude":55.38332,
+    "gn:population":4,
+    "iso:country":"SC",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13527034: name \"Platte Island\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13527034"
+        },
+        {
+            "citation":"GeoNames populated place 13527034: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13527034"
+        },
+        {
+            "citation":"GeoNames populated place 13527034: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13527034"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85678277 (Bel Ombre), the record that holds the GeoNames id of the division GeoNames files this place under. No boundary of the repository contains the point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632661,
+        85678277,
+        102193527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13527034
+    },
+    "wof:country":"SC",
+    "wof:geomhash":"6e7c7023c84272e11a501ac4fefda181",
+    "wof:hierarchy":[
+        {
+            "continent_id":102193527,
+            "country_id":85632661,
+            "locality_id":9895092533,
+            "region_id":85678277
+        }
+    ],
+    "wof:id":9895092533,
+    "wof:lastmodified":1795746193,
+    "wof:name":"Platte Island",
+    "wof:parent_id":85678277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sc",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.38332,
+    -5.86354,
+    55.38332,
+    -5.86354
+],
+  "geometry": {"coordinates":[55.38332,-5.86354],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 9895056553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.27267,-7.13553,56.27267,-7.13553",
+    "geom:latitude":-7.13553,
+    "geom:longitude":56.27267,
+    "iso:country":"SC",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13580365: name \"Coetivy\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13580365"
+        },
+        {
+            "citation":"GeoNames populated place 13580365: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13580365"
+        },
+        {
+            "citation":"GeoNames populated place 13580365: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13580365"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85678233 (Outer Islands), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632661,
+        85678233,
+        102193527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13580365
+    },
+    "wof:country":"SC",
+    "wof:geomhash":"13574be65b4f0b501a96b975f07ce4cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102193527,
+            "country_id":85632661,
+            "locality_id":9895056553,
+            "region_id":85678233
+        }
+    ],
+    "wof:id":9895056553,
+    "wof:lastmodified":1795735201,
+    "wof:name":"Coetivy",
+    "wof:parent_id":85678233,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sc",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.27267,
+    -7.13553,
+    56.27267,
+    -7.13553
+],
+  "geometry": {"coordinates":[56.27267,-7.13553],"type":"Point"}
+}
