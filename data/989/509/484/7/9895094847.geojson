@@ -1,0 +1,74 @@
+{
+  "id": 9895094847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.46611,-4.60799,55.46611,-4.60799",
+    "geom:latitude":-4.60799,
+    "geom:longitude":55.46611,
+    "iso:country":"SC",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames division 12200079 (Ile Perseverance I): its name",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12200079"
+        },
+        {
+            "citation":"GeoNames division 12200079 (Ile Perseverance I): its point. GeoNames publishes no boundary.",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12200079"
+        },
+        {
+            "citation":"GeoNames division 12200079 (Ile Perseverance I): its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12200079"
+        },
+        {
+            "citation":"GeoNames division 12200079 (Ile Perseverance I): a level 1 division.",
+            "property":"wof:hierarchy",
+            "url":"https://www.geonames.org/12200079"
+        }
+    ],
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Ile Perseverance I"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632661,
+        102193527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12200079
+    },
+    "wof:country":"SC",
+    "wof:geomhash":"60f2167c31bb0f9da810a34dc7dd1b93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102193527,
+            "country_id":85632661,
+            "region_id":9895094847
+        }
+    ],
+    "wof:id":9895094847,
+    "wof:lastmodified":1795802296,
+    "wof:name":"Ile Perseverance I",
+    "wof:parent_id":85632661,
+    "wof:placetype":"region",
+    "wof:repo":"whosonfirst-data-admin-sc",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.46611,
+    -4.60799,
+    55.46611,
+    -4.60799
+],
+  "geometry": {"coordinates":[55.46611,-4.60799],"type":"Point"}
+}
