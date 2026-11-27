@@ -1,0 +1,73 @@
+{
+  "id": 9895092532,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.67087,-5.6903,53.67087,-5.6903",
+    "geom:latitude":-5.6903,
+    "geom:longitude":53.67087,
+    "gn:population":60,
+    "iso:country":"SC",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13527032: name \"Desroches\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13527032"
+        },
+        {
+            "citation":"GeoNames populated place 13527032: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13527032"
+        },
+        {
+            "citation":"GeoNames populated place 13527032: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13527032"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85678241 (Anse Boileau), the record that holds the GeoNames id of the division GeoNames files this place under. No boundary of the repository contains the point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632661,
+        85678241,
+        102193527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13527032
+    },
+    "wof:country":"SC",
+    "wof:geomhash":"6ed345f28b5613c23c2921fb802e8263",
+    "wof:hierarchy":[
+        {
+            "continent_id":102193527,
+            "country_id":85632661,
+            "locality_id":9895092532,
+            "region_id":85678241
+        }
+    ],
+    "wof:id":9895092532,
+    "wof:lastmodified":1795746193,
+    "wof:name":"Desroches",
+    "wof:parent_id":85678241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sc",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.67087,
+    -5.6903,
+    53.67087,
+    -5.6903
+],
+  "geometry": {"coordinates":[53.67087,-5.6903],"type":"Point"}
+}
